@@ -5,4 +5,5 @@ A opensource exchange script for digital currencies like Bitcoin and other alt-c
 
 The trading section is not fully completed at this time. 
 
-Feel free to contribute
+Introduce installation manual and first-step tutorial on the platform. Guide in the 
+installation details.
